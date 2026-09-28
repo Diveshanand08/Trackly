@@ -93,7 +93,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Developed by **Lovenew**
-📌 [My GitHub Profile](https://github.com/lovenew232)
+Developed by **Divesh**
+📌 [My GitHub Profile](https://github.com/Diveshanand08)
 
 ---
