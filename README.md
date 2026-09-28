@@ -52,7 +52,7 @@ Expense-Tracker-Project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/lovenew232/Expense-Tracker-Project.git
+git clone https://github.com/Diveshanand08/Trackly
 cd Expense-Tracker-Project
 ```
 
